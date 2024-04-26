@@ -1,0 +1,11 @@
+.search_container h1 {
+    margin-bottom: 1em;
+}
+
+.search_container p {
+    margin-bottom: 30px;
+}
+
+.noposts {
+    text-align: center;
+}

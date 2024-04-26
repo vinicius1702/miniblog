@@ -1,0 +1,9 @@
+.preview_title {
+    margin-bottom: .2em;
+    color: #000;
+}
+
+.image_preview {
+    max-width: 100%;
+    margin-bottom: 1em;
+}
